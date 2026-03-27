@@ -1,3 +1,5 @@
+![model](./model.png)
+
 demo:
 https://iusmusic.github.io/face/
 
